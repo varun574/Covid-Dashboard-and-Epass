@@ -1,3 +1,24 @@
+# Project Description
+
+This project showcases how you create a static dashboard that update regularly and contains 
+information from every country on what percent of COVID cases and deaths have been 
+reported. The content of this dashboard shows statistics and reports regarding Covid-19. 
+In order to contain the spread of the corona virus, the state governments are taking various 
+necessary steps. One such step that the governments are doing is imposing lockdown. 
+During this, the movement of people in case of emergency or essential activities such as 
+medical treatment and certain business needs will happen by getting an approval from the 
+respective state governments. An E-Pass is what will be issued in such cases. An e-Pass is an 
+indicator that you have permission to step outside and travel due to the nature of your work. 
+In our project we have included E-Pass registration process during which certain important 
+elements will be collected from the person who needs to travel and either approve or reject 
+based on the norms of the respective state government. In either case an email and a SMS 
+will be sent to the person. There is a provision also included to track the status of the e-pass 
+application using the generated reference id.
+
+# Deployed in heroku Web server
+
+https://covid-dashboard-and-epass.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
