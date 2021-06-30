@@ -17,7 +17,7 @@ application using the generated reference id.
 
 # Deployed in heroku Web server
 
-https://covid-dashboard-and-epass.herokuapp.com/
+https://covid-dashboaard-epass.herokuapp.com/
 
 # Getting Started with Create React App
 
